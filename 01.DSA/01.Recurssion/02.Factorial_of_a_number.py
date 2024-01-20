@@ -1,10 +1,8 @@
-# even if we can increase stack memory the function keeps call
-# calling itself infintely
-# import sys
-# sys.setrecursionlimit()
-# step one:recursive case the flow
-# step2:base case the stopping criteria
-# step3:unintentional case-constraint
+# step1:-recursive case the flow
+# step2:-base case the stopping criteria
+# step3:-unintentional case-constraint
+
+
 def factorial(n):
     # for step 3
     assert n>=0 and int(n)==n,'the number must be positive integer only'

@@ -1,1 +1,1 @@
-# Python-DSA-and-Design-patterns
+# Greedy Algorithms

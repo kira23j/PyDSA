@@ -9,7 +9,6 @@ Welcome to PyDSA! This repository is your comprehensive resource for mastering P
 Make sure you have Python installed.
 
  ###  Contributing
-Contribute by adding new content, improving solutions, or suggesting enhancements. See CONTRIBUTING.md.
-
+Contribute by adding new content, improving solutions, or suggesting enhancements. 
 ###  License
 This repository is licensed under the MIT License. Happy coding

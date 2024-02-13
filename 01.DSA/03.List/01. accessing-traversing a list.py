@@ -1,8 +1,5 @@
-from array import *
-arr1=array('i',[1,2,3,4,5])
-def accessElement(array,index):
-    if index>len(array):
-        print("there is no element in the index")
-    else:
-        print(array[index])
-accessElement(arr1,7)
+# create list of different data types
+integers=[1,2,3,4]
+floats=[1.2,3.4,4.5]
+names=["kira","alex","mike"]
+versatile=["1573",1234,]

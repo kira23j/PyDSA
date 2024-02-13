@@ -10,4 +10,5 @@ Make sure you have Python installed.
 
  ###  Contributing
 Contribute by adding new content, improving solutions, or suggesting enhancements. 
-
+###  License
+This repository is licensed under the MIT License. Happy coding

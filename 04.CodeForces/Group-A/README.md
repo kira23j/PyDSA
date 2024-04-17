@@ -1,1 +1,0 @@
-# Group A codeforces solutions

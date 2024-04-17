@@ -1,1 +1,0 @@
-# Others on Codeforces

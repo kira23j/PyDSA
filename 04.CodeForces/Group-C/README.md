@@ -1,1 +1,0 @@
-# Group C codeforces solutions

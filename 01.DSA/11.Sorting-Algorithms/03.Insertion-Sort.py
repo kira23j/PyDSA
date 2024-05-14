@@ -1,11 +1,13 @@
-
-def bubblesort(CustomList):
-    for i in range(len(CustomList)-1):
-        for j in range(len(CustomList)-i-1):
-            if CustomList[j]>CustomList[j+1]:
-                CustomList[j],CustomList[j+1]=CustomList[j+1],CustomList[j]
-    print(CustomList)
-items=[2,1,3,4,5,9,7]
-bubblesort(items)
-# time complexity of o(n^2)
-# space complexity of o(1)
+def insertionSort(customList):
+    for i in range(1,len(customList)):
+        key=customList[i]
+        j=i-1
+        while j>=0 and key <customList[j]:
+            customList[j+1]=customList[j]
+            j-=1
+        customList[j+1]=key
+    print(customList)
+    
+cList=[1,4,3,5,7,6,3]
+insertionSort(cList)
+    

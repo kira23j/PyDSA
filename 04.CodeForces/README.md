@@ -1,1 +1,1 @@
-# Random codeforces problems and solutions
+# Different codeforces problems and solutions

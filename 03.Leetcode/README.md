@@ -1,1 +1,0 @@
-# section for solutions of leetcode problems using python
